@@ -1,1 +1,0 @@
-The visitor walks up to the library and is greeted by the librarian on duty.
