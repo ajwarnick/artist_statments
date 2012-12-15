@@ -50,4 +50,4 @@ I was hoping to be accepting submissions from the public for books to be adding 
 
 
 [^1]:they are left with an understanding of the way in which their action of reading is a form of remix, and that they are liberated to remix more fully the things in their life.
-[^451]:"when i am given lined paper i write the other way."
+[^451]:"If they give you ruled paper, write the other way." [-Juan Ramón Jiménez](http://en.wikiquote.org/wiki/Juan_Ram%C3%B3n_Jim%C3%A9nez)
