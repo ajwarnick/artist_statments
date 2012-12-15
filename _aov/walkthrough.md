@@ -15,7 +15,6 @@
 
 - leave their favorite.[^1]
 
----
 
 ## Greeting 
 
@@ -41,13 +40,13 @@ The desks are a shared work space that is set aside for both reading and writing
 
 ## add to project
 
-The anthology of the project is made from things that are found by the public and collated into a book. They are ask at the 
+The anthology of the project is made from things that are found by the public and collated into a book. They are ask at the beginning to add to this anthology. They are not required to and their addition can be whatever they like just a page from one of the books in the library, a drawing on one of the note book pages, or a cut up of photocopies to make a new remix. 
 
 ## return
 
 the ideal scenario would mean that the library gets stuck in peoples mind and they come back cause they can't get a book or an idea out of their mind. They return looking for a certain book or a style.
 
-
+I was hoping to be accepting submissions from the public for books to be adding to the library. As the guest leaves the librarian asks them if there is any books they would like to the library. 
 
 
 [^1]:they are left with an understanding of the way in which their action of reading is a form of remix, and that they are liberated to remix more fully the things in their life.
