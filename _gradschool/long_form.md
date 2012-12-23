@@ -11,7 +11,7 @@ From its very beginning, digital culture has taken an open, remix ethos[^8]. my 
 The animus of my work is dialogue, which leads to transformative thinking. 
 
 
-[^1]:I am interdisciplinary and by that  I mean that I am a conceptual artist who moves between mediums and modes of making. The mediums that I usually deploy are printmaking, sculpture, and photography, and the modes that work in are usually interactive, open-ended, and social. 
+[^1]:I am interdisciplinary and by that  I mean that I am a conceptual artistist who moves between mediums and modes of making. The mediums that I usually deploy are printmaking, sculpture, and photography, and the modes that work in are usually interactive, open-ended, and social. 
 
 [^3]:newsprint and plywood
 
