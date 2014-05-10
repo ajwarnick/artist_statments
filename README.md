@@ -1,1 +1,1 @@
-These are all of the artist statements i have ever written
+These are all of the artist _statements_ i have ever written
